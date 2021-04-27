@@ -12,6 +12,6 @@ For example:
 
 node main.js 3 25 209
 
-This should yield
+This should print
 
 "Three,TwoFive,TwoZeroNine"
