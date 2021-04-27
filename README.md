@@ -5,6 +5,7 @@ This JavaScript application takes in an array of integers as its input (in the f
 For instance, 3 --> Three, 25 --> TwoFive, 209 --> TwoZeroNine
 
 Run the script in this format:
+
 node main.js [number one] [number 2] [number 3] ... [number n]
 
 For example:
